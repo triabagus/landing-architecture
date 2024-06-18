@@ -161,8 +161,8 @@ img {
 }
 
 .home__img,
-.home__shadow{
-/* .home__content{ */
+.home__shadow,
+.home__content{
   position: absolute;
   top: 0;
   left: 0;
